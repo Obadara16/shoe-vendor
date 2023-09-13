@@ -1,0 +1,37 @@
+export { default as logo } from './logo.png';
+export { default as hero } from './hero.png';
+export { default as menu } from './menu.svg';
+export { default as close } from './close.svg';
+export { default as favicon } from './favicon.ico';
+export { default as marketingIcon } from './marketing-icon.svg';
+export { default as hrServices } from './hr-services.svg';
+export { default as engineeringServices } from './engineering-services.svg';
+export { default as softwareServices } from './software-services.svg';
+export { default as teaching } from './teaching.svg';
+export { default as classroom } from './classroom.svg';
+export { default as burgerMenu } from './burger-menu.svg';
+export { default as closeButton } from './close-button.svg';
+export { default as cardBg } from './card-bg.jpg';
+export { default as cardBg1 } from './card-bg1.jpg';
+export { default as cardBg2 } from './card-bg2.jpg';
+export { default as cardBg3 } from './card-bg3.jpg';
+export { default as hero1 } from './hero1.png';
+export { default as hero2 } from './hero2.png';
+export { default as hero3 } from './hero3.jpg';
+export { default as groupPic1 } from './group-pic1.jpg';
+export { default as groupPic2 } from './group-pic2.jpg';
+export { default as groupPic3 } from './group-pic3.jpg';
+export { default as groupPic4 } from './group-pic4.jpg';
+export { default as fb } from './fb.png';
+export { default as ig } from './ig.png';
+export { default as tw } from './tw.png';
+export { default as share } from './share.png';
+export { default as info } from './info.png';
+export { default as bubble } from './bubble.png';
+export { default as background } from './background.png';
+export { default as shoeHero } from './shoe-hero.png';
+export { default as shoeDisplay1 } from './shoe-display1.png';
+export { default as shoeDisplay2 } from './shoe-display2.png';
+export { default as frame } from './frame.png';
+
+

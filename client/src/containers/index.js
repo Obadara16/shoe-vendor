@@ -1,0 +1,9 @@
+export { default as Nav } from './Nav';
+export { default as HeroNav } from './HeroNav';
+export { default as CustomHeroNav } from './CustomHeroNav';
+export { default as CustomHero } from './CustomHero';
+export { default as Hero } from './Hero';
+export { default as ShoeList } from './ShoeList';
+export { default as About } from './About';
+export { default as Contact } from './Contact';
+export { default as Footer } from './Footer';
